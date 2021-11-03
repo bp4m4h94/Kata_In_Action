@@ -1,0 +1,10 @@
+mumbling/Accumul.java
+ mumbling.Accumul
+fix_string_case/Solution.java
+ fix_string_case.Solution
+jadenCase/JadenCase.java
+ jadenCase.JadenCase
+pangramChecker/PangramChecker.java
+ pangramChecker.PangramChecker
+Test.java
+ Test

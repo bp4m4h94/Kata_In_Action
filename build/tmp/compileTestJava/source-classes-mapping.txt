@@ -1,0 +1,6 @@
+mumbling/AccumulTest.java
+ mumbling.AccumulTest
+jadenCase/JadenTaskTest.java
+ jadenCase.JadenTaskTest
+pangramCheck/PangramTest.java
+ pangramCheck.PangramTest
